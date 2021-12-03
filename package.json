@@ -1,5 +1,5 @@
 {
-  "name": "identity.ts",
+  "name": "identity.tsc",
   "version": "1.0.0",
   "main": "dist/index.js",
   "license": "MIT",
