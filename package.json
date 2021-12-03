@@ -1,0 +1,20 @@
+{
+  "name": "identity.ts",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thefakewater/identity.ts.git"
+  },
+  "files": [
+    "dist/**/*"
+  ],
+  "dependencies": {
+    "axios": "^0.24.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.11",
+    "typescript": "^4.5.2"
+  }
+}
